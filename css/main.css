@@ -115,6 +115,7 @@ h2 ~ p {
   list-style: none;
   padding: 0;
   text-align: center;
+  margin-top: 2em;
 }
 .social-link {
   background: rgba(150, 150, 150, 0.5);
